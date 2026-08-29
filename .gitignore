@@ -1,0 +1,13 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temp files
+*.tmp
+*.log
+*.bak
+
+# IDEs
+.vscode/
+.idea/
