@@ -1,4 +1,4 @@
-# DayZFix 🛠️
+# DayZFix
 
 <div align="center">
 
